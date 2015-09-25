@@ -1,4 +1,4 @@
-<?php namespace App\Providers;
+<?php namespace Andrewboy\LocalEnviroment;
 
 use Illuminate\Support\ServiceProvider;
 use Illuminate\Foundation\AliasLoader;
